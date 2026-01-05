@@ -1,13 +1,11 @@
 /*
 ======================================================================================
-Stored Procedure: Load Silver Layer
+DDL Structure: Load Silver Layer
 ======================================================================================
 Script Purpose:
     This script creates tables in the 'silver' schema, dropping existing tables
     if they already exist.
     run this script to re_define DDL structure of 'bronze' tables
-Usage Example:
-    EXEC silver.load_silver;
 ======================================================================================
 */
 
