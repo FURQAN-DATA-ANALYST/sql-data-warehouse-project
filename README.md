@@ -31,7 +31,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 -  These insights empoer stajeholders with key business metrics, enabling strategic decision-making.
 
-  ---
+---
 
   ## 🗝️ License 
 
@@ -40,3 +40,5 @@ Develop SQL-based analytics to deliver detailed insights into:
   ## 👤 About Me
 
 Hi there! I'm **Furqan Rasheed**, Studying at Hochschule Bremerhaven in MSc. Process Engineering & Energy Technology. I'm an passionate beginner in the field of Data Analytics, whom enjoys the learning something new.
+
+
